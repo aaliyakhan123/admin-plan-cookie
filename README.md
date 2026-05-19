@@ -4,6 +4,7 @@
 <img width="1901" height="986" alt="Screenshot 6" src="https://github.com/user-attachments/assets/e3c9d07f-53e5-454f-90b7-b3df5956dfe5" />
 <img width="1907" height="1010" alt="Screenshot 3" src="https://github.com/user-attachments/assets/3804cd88-e9ef-4289-8f1a-b7c17db6f130" />
 # Admin Panel Cookie Authentication Project
+vedio explaining - https://docs.google.com/videos/d/1syz2XYJZK9U6pzPClUu-yaq_UKNpZmuCEdkR1cAkthU/edit?usp=sharing
 
 ## Overview
 
